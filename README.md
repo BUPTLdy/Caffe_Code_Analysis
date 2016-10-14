@@ -11,3 +11,5 @@
 [http://imbinwang.github.io/blog/inside-caffe-code-layer](http://imbinwang.github.io/blog/inside-caffe-code-layer)
 
 [http://blog.csdn.net/seven_first/article/details/47378697](http://blog.csdn.net/seven_first/article/details/47378697)
+
+[http://withwsf.github.io/2016/04/14/Caffe-with-Python-Layer/](http://withwsf.github.io/2016/04/14/Caffe-with-Python-Layer/)
